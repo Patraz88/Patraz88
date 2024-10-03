@@ -1,4 +1,4 @@
 packages:
   - packages/*
   - docs
-  - packages/playground/**
+  - packages/playground/*go*
