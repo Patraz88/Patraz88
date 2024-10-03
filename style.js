@@ -1,1 +1,1 @@
-web
+log{'open web'}
