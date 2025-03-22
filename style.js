@@ -1,1 +1,1 @@
-log{'open web'}
+log{'pat-raz.com'}
